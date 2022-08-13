@@ -1,6 +1,5 @@
 .idea
 unit-test-practice.iml
-src/test
 node_modules
 coverage
 >>>>>>> ea9fae6 (Write first test code)
