@@ -1,2 +1,5 @@
 .idea
 unit-test-practice.iml
+test
+node_modules
+>>>>>>> a1b29cd (Finish jest settings)
