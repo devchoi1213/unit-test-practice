@@ -1,5 +1,6 @@
 .idea
 unit-test-practice.iml
-test
+src/test
 node_modules
->>>>>>> a1b29cd (Finish jest settings)
+coverage
+>>>>>>> ea9fae6 (Write first test code)
