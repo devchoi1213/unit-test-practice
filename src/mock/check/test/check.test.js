@@ -1,4 +1,4 @@
-const check = require('../check/check');
+const check = require('../check');
 
 describe('check', () => {
     let onSuccess;
